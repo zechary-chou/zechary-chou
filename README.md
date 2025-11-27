@@ -17,7 +17,6 @@ MongoDB • MySQL • Google Cloud Platform (GCP)
 PyTorch • Hugging Face • Scikit-Learn  
 
 ## 📫 How to Reach Me
-- **Email:** zecharychou@gmail.com  
 - **LinkedIn:** linkedin.com/in/zechary-chou  
 <!--
 **zechary-chou/zechary-chou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
