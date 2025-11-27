@@ -16,7 +16,7 @@ MongoDB • MySQL • Google Cloud Platform (GCP)
 **AI / ML:**  
 PyTorch • Hugging Face • Scikit-Learn  
 
-- ## 📫 How to Reach Me
+## 📫 How to Reach Me
 - **Email:** zecharychou@gmail.com  
 - **LinkedIn:** linkedin.com/in/zechary-chou  
 <!--
